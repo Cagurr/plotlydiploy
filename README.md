@@ -26,3 +26,6 @@ index.html:
 
 charts.js:
 ![charts.png](resources/charts.png)
+
+styles.css:
+![style.png](resources/style.png)
